@@ -1,0 +1,102 @@
+# Dependencias de Node.js
+node_modules/
+
+# Directorio de compilación
+build/
+
+# Directorio de Android
+android/
+
+# Directorio de iOS
+ios/Pods
+ios/Podfile.lock
+
+# Archivos de configuración de entorno local
+.env
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Archivos de intercambio de código
+*.swp
+*.bak
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Archivos de ESLint
+.eslintrc.js
+
+# Archivos de Babel
+.babelrc
+
+# Archivos de TypeScript
+tsconfig.json
+
+# Archivos de Jest
+jest.config.js
+
+# Archivos de Metro Bundler
+metro.config.js
+
+# Archivos de Flow
+.flowconfig
+
+# Archivos de detección de dependencias
+yarn.lock
+package-lock.json
+
+# Carpeta de recursos generados automáticamente en Xcode
+Resources/
+
+# Carpetas de caché
+/__tests__/__cache__/
+/node_modules/react-native/packager/react-packager/src/hasteMap/
+
+# Archivos de configuración de IDE
+*.sublime-workspace
+*.sublime-project
+*.workspace
+*.code-workspace
+*.sln
+*.suo
+*.vcxproj
+*.user
+*.csproj
+*.njsproj
+*.apsvcproj
+*.jsproj
+*.sqlproj
+*.dbproj
+*.vjsproj
+*.plproj
+*.vbproj
+*.fsproj
+*.wdproj
+*.mdf
+*.ldf
+*.opensdf
+*.sdf
+*.cdproj
+*.svclog
+*.dll
+*.pdb
+*.exe
+*.config
+*.pub
+*.lock
+*.dartignore
+*.idea/
+*.iml
+*.ipr
+*.iws
+*.DS_Store
+*.nbproj
+*.nb
+*.nws
+*.nwproj
+*.nw
+*.nw.*
